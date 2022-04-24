@@ -2,7 +2,7 @@
 
 Swimming pool detection is a commonly performed task in computer vision. Here, we have used transfer learning to train YOLOv5 architecture on this [dataset](https://www.kaggle.com/datasets/cici118/swimming-pool-detection-algarves-landscape). You can see some sample results below
 
-![](runs/detect/exp/71.PNG) ![](runs/detect/exp/72.PNG) ![](runs/detect/exp/86.PNG)
+![](runs/detect/exp/71.PNG) ![](runs/detect/exp/86.PNG)
 
 ## How to run?
 
